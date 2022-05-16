@@ -5,6 +5,9 @@ contributor:
     agent_name: Graff, J. B.
     gutenberg_agent_id: '54579'
     url: http://www.gutenberg.org/2009/agents/54579
+covers:
+- cover_type: archival
+  image_path: 68045-h/images/elle_cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -20,6 +23,8 @@ creator:
     - https://fr.wikipedia.org/wiki/George_Sand
     - https://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68045#She-and-He-Lavinia-Memoir-The-masterpieces-of-George-Sand-Vol-20
 gutenberg_issued: '2022-05-10'
 identifiers:
   gutenberg: '68045'
